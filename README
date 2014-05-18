@@ -1,0 +1,3 @@
+Perfect Hashing algorithm from GPERF Implemented in julia.
+
+This implementation is not particularly efficient, but it should be idiomatic.
